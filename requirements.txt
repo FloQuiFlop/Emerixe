@@ -1,0 +1,8 @@
+aiohttp
+async-timeout
+discord.py
+requests
+asyncio
+discord
+datetime
+
